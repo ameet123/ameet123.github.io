@@ -1,4 +1,4 @@
-# ameet123.github.io
+# Computer Science Algorithms and Tidbits.
 
 
 ### RSA Example using modular arithmetic
