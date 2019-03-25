@@ -1,3 +1,6 @@
 # ameet123.github.io
 
-[rsa](RSA_example.pdf)
+
+### RSA Example using modular arithmetic
+This is a PDF due to mathJax usage.
+[RSA_example.pdf](RSA_example.pdf)
