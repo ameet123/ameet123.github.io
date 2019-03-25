@@ -5,7 +5,7 @@ we will try to encrypt and decrypt a simple message.
 ##### Public Key Creation:
 
 Let's choose two primes as follows,
-$
+$$
 \begin{array}{0}
 p = 11 \text{ , } q=13. \Rightarrow\\
 N = p \times q = 11 \times 13 = 143\\
@@ -14,7 +14,7 @@ N = p \times q = 11 \times 13 = 143\\
 
 
 \end{array}
-$
+$$
 Now, we need to create the public key, $$e$$. Since $$e$$ is `relatively prime` to $$(p-1)(q-1)$$, we try from $$3,5,...$$ until we find the first such number. In this case, $$7$$ is relatively prime to $$120$$, so we choose that.
 $$
 \begin{array}{0}
