@@ -30,7 +30,7 @@ $$
 
 ##### Private Key:
 
-This is simply the inverse of $$e \text{ mod }(p-1)(q-1)$$ and is computed using `extended Euclid's algorithm` as follows,
+This is simply the inverse of $$e \text{ mod }(p-1)(q-1)​$$ and is computed using `extended Euclid's algorithm` as follows,
 $$
 \begin{array}{0}
 (120,7) \Rightarrow \\
